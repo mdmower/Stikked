@@ -9,6 +9,7 @@ if (!defined('BASEPATH')) exit('No direct script access allowed');
 
 //geshi languages
 $config['geshi_languages'] = array(
+	'logcat' => 'logcat',
 	'html5' => 'HTML5',
 	'css' => 'CSS',
 	'javascript' => 'JavaScript',
